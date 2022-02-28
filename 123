@@ -1,0 +1,10 @@
+include<stdio.h>
+main
+{
+int a,b=6,c;
+printf("Введите целое число")ж
+scanf("%d", &a)
+c=a+b
+printf("%d+%d=%d, a, b, c);
+getchar()
+}
