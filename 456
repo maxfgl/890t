@@ -1,0 +1,9 @@
+include<stdio.h>
+main
+{
+int c,x
+
+x=c*2;
+printf("%d", c);
+
+}
